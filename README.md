@@ -6,12 +6,14 @@
 - 🐾 별명은 사막여우입니다.
 - 💭 언젠간 AI분야의 개발자가 되어보고 싶습니다.
 
+<br/>
+
 ---
 
 🕊 SNS 🕊<br/>
 <a href="https://467shin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-ffffff?style=flat-square&logo=Tistory&logoColor=black"/></a>
 <a href="https://www.instagram.com/467shin/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="mailto:467shin@gmail.com" target="_blank"><img src="https://img.shields.io/badge/467shin@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="mailto:467shin@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 ---
 
