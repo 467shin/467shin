@@ -8,7 +8,7 @@
 
 <br/>
 
-<img alt="python.svg" src ="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/> <!-- 파이썬 마크 -->
+<img src ="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/> <!-- 파이썬 마크 -->
 
 ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=467shin&&show_icons=true&theme=dark) <!-- Github 스탯 -->
 
