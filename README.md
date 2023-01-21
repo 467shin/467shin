@@ -22,9 +22,11 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <!-- 파이썬 마크 -->
 
 
-![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=467shin&&show_icons=true&theme=dark) <!-- Github 스탯 -->
-![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=467shin&&show_icons=true&theme=dark&layout=compact)
+![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=467shin&&show_icons=true&theme=cobalt) <!-- Github 스탯 --><br>
+![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=467shin&&show_icons=true&theme=cobalt&layout=compact)
 <!-- &hide_border=true&title_color=004386&icon_color=004386&layout=compact) -->
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=467shin)](https://solved.ac/467shin/)
 
 <!--
 **467shin/467shin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
