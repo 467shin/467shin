@@ -16,6 +16,7 @@
 <a href="https://467shin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-ffffff?style=flat-square&logo=Tistory&logoColor=black"/></a>
 <a href="https://www.instagram.com/467shin.ssafy/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:467shin@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<!-- <a href="https://www.linkedin.com/in/gijeong-shin-213666264" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a> -->
 
 ---
 
@@ -30,10 +31,14 @@
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a> <!-- Vue 마크 -->
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a> <!-- SQLite 마크 -->
 
-Tools🛠️<br/>
+🛠️Tools<br/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a> <!-- GitHub 마크 -->
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <!-- Notion 마크 -->
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/></a> <!-- Postman 마크 -->
+<br>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a> <!-- Postman 마크 -->
+<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white"/></a> <!-- Postman 마크 -->
+<img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=atom&logoColor=white"/></a> <!-- Postman 마크 -->
 
 
 <!-- ![stats](https://github-readme-stats.vercel.app/api?username=467shin&&show_icons=true&theme=nord) <!-- Github 스탯 --><br>
