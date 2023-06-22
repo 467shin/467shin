@@ -36,7 +36,8 @@ Tools🛠️<br/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/></a> <!-- Postman 마크 -->
 
 
-![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=467shin&&show_icons=true&theme=nord) <!-- Github 스탯 --><br>
+<!-- ![stats](https://github-readme-stats.vercel.app/api?username=467shin&&show_icons=true&theme=nord) <!-- Github 스탯 --><br>
+
 ![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=467shin&&show_icons=true&theme=nord&layout=compact)
 <!-- &hide_border=true&title_color=004386&icon_color=004386&layout=compact) -->
 
