@@ -27,8 +27,11 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> <!-- CSS 마크 -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a> <!-- JS 마크 -->
 <br>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a> <!-- Django 마크 -->
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> <!-- React 마크 -->
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a> <!-- Redux 마크 -->
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a> <!-- Vue 마크 -->
+<br>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a> <!-- Django 마크 -->
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a> <!-- SQLite 마크 -->
 
 🛠️Tools<br/>
@@ -36,9 +39,9 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <!-- Notion 마크 -->
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/></a> <!-- Postman 마크 -->
 <br>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a> <!-- Postman 마크 -->
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white"/></a> <!-- Postman 마크 -->
-<img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=atom&logoColor=white"/></a> <!-- Postman 마크 -->
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a> <!-- VS code 마크 -->
+<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white"/></a> <!-- Pycharm 마크 -->
+<img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=atom&logoColor=white"/></a> <!-- Atom 마크 -->
 
 
 <!-- ![stats](https://github-readme-stats.vercel.app/api?username=467shin&&show_icons=true&theme=nord) <!-- Github 스탯 --><br>
