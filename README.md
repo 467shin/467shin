@@ -22,6 +22,9 @@
 
 💻<br/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <!-- 파이썬 마크 -->
+<img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a> <!-- 주피터 마크 -->
+<img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a> <!-- np 마크 -->
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a> <!-- pd 마크 -->
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> <!-- HTML 마크 -->
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> <!-- CSS 마크 -->
