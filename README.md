@@ -12,10 +12,12 @@
 
 ---
 
-### 🕊 SNS 🕊<br/>
+### 🕊 Contact Me 🕊<br/>
+<a href="https://foxpolio.notion.site/Gi-Jeong-Shin-s-Portfolio-a8da228504634c54a399e28908f34174?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <!-- Notion 마크 -->
 <a href="https://467shin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-ffffff?style=flat-square&logo=Tistory&logoColor=black"/></a>
 <a href="https://www.instagram.com/467shin.ssafy/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:467shin@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+
 <!-- <a href="https://www.linkedin.com/in/gijeong-shin-213666264" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a> -->
 
 ---
@@ -36,6 +38,7 @@ FE<br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> <!-- React 마크 -->
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a> <!-- Vue 마크 -->
 <br/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/></a> <!-- Vite 마크 -->
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a> <!-- Redux 마크 -->
 <img src="https://img.shields.io/badge/Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white"/></a> <!-- Swiper js 마크 -->
 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=Chart.js&logoColor=white"/></a> <!-- Chart js 마크 -->
