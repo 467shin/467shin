@@ -15,7 +15,7 @@
 ### 🕊 Contact Me 🕊
 ###### (click me!)
 <a href="https://www.linkedin.com/in/gijeong-shin-213666264" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a> <!-- LinkedIn -->
-<a href="https://foxpolio.notion.site/Gi-Jeong-Shin-s-Portfolio-a8da228504634c54a399e28908f34174?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <!-- Notion 마크 -->
+<a href="https://foxpolio.notion.site/Gi-Jeong-Shin-s-Portfolio-15f24350dccd421b8b226576c0aba588?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a> <!-- Notion 마크 -->
 <a href="https://467shin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-ffffff?style=flat-square&logo=Tistory&logoColor=black"/></a>
 <a href="https://www.instagram.com/467shin.ssafy/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:467shin@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
