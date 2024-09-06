@@ -73,9 +73,15 @@
 
 ### 🛠️ Tools
 
-#### Git
+#### Version Management
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a> <!-- GitHub 마크 -->
 <img src="https://img.shields.io/badge/GitLab-181717?style=flat-square&logo=gitlab&logoColor=white"/></a> <!-- GitLab 마크 -->
+<br/>
+
+#### CI/CD
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/></a> <!-- AWS 마크 -->
+<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/></a> <!-- EC2 마크 -->
+<img src="https://img.shields.io/badge/Oracle Cloud-F80000?style=flat-square&logo=oracle&logoColor=white"/></a> <!-- EC2 마크 -->
 <br/>
 
 #### Text Editor
