@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🌱 Clean Code를 추구하는 Front-end 개발자 입니다.
-- 🎓︎ 일본어를 전공했으며, 일본에서 1년동안 거주한 경험이 있어 프리토킹에 무리가 없을 정도의 일본어 역량을 보유하고 있습니다.
+- 🌱 일본에서 외화벌이 중인 1년차 웹 개발자 입니다.
+- 🎓︎ 일본어를 전공했습니다.
 - 🧑🏻‍💻 삼성청년SW아카데미(SSAFY) 9기를 수료하였습니다.
 - ✈ 여행을 좋아합니다.
 - 🐾 별명은 사막여우입니다.
@@ -27,6 +27,7 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <!-- 파이썬 마크 -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/></a> <!-- JS 마크 -->
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a> <!-- TS 마크 -->
+<img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=white"/></a> <!-- Java 마크 -->
 
 ### 🕸️ Web
 
@@ -36,12 +37,13 @@
 <br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> <!-- React 마크 -->
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a> <!-- Vue 마크 -->
+<img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white"/></a> <!-- Nuxt 마크 -->
 <br/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a> <!-- Redux 마크 -->
 <img src="https://img.shields.io/badge/Vuex-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a> <!-- Vuex 마크 -->
 <br/>
 <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/></a> <!-- SCSS 마크 -->
-<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwind css&logoColor=white"/></a> <!-- Tailwind CSS 마크 -->
+<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/></a> <!-- Tailwind CSS 마크 -->
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/></a> <!-- bootstrap 마크 -->
 <br/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/></a> <!-- Vite 마크 -->
@@ -54,12 +56,14 @@
 
 
 #### BE
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a> <!-- SpringBoot 마크 -->
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a> <!-- Django 마크 -->
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a> <!-- Express 마크 -->
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a> <!-- Flask 마크 -->
 <br/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a> <!-- SQLite 마크 -->
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a> <!-- MongoDB 마크 -->
+<img src="https://img.shields.io/badge/Oracle DB-000000?style=flat-square&logo=OracleDB&logoColor=white"/></a> <!-- OracleDB 마크 -->
 <br/>
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/></a> <!-- JWS 마크 -->
 <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white"/></a> <!-- Mongoose 마크 -->
@@ -82,10 +86,11 @@
 #### CI/CD
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/></a> <!-- AWS 마크 -->
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/></a> <!-- EC2 마크 -->
-<img src="https://img.shields.io/badge/Oracle Cloud-F80000?style=flat-square&logo=oracle&logoColor=white"/></a> <!-- EC2 마크 -->
+<img src="https://img.shields.io/badge/Oracle Cloud-F80000?style=flat-square&logo=oracle&logoColor=white"/></a> <!-- Oracle Cloud 마크 -->
 <br/>
 
 #### Text Editor
+<img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white"/></a> <!-- intellijidea 마크 -->
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/></a> <!-- VS code 마크 -->
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/></a> <!-- Anaconda 마크 -->
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white"/></a> <!-- Pycharm 마크 -->
